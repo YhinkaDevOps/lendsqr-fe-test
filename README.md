@@ -18,8 +18,14 @@ These technologies were used as per strict requirements of the test:
 Other technologies I used: 
 * React Router for client-side navigation
 * Axios and React Query for asynchronous data fetching.
-  
-# Getting Started with Create React App
+
+## My Results
+
+* [Login page](https://lateef-bakare-lendsqr-fe-test.netlify.app/login)
+* [Dashboard](https://lateef-bakare-lendsqr-fe-test.netlify.app/dashboard) 
+* [Users]](https://lateef-bakare-lendsqr-fe-test.netlify.app/dashboard/users) 
+
+## Other guides from React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
