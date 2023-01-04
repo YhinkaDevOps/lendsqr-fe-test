@@ -23,7 +23,7 @@ Other technologies I used:
 
 * [Login page](https://lateef-bakare-lendsqr-fe-test.netlify.app/login)
 * [Dashboard](https://lateef-bakare-lendsqr-fe-test.netlify.app/dashboard) 
-* [Users]](https://lateef-bakare-lendsqr-fe-test.netlify.app/dashboard/users) 
+* [Users](https://lateef-bakare-lendsqr-fe-test.netlify.app/dashboard/users) 
 
 ## Other guides from React
 
