@@ -1,0 +1,12 @@
+@use './scss/components/dashboard-header.scss';
+@use './scss/components/mobile-sidebar.scss';
+@import './base/reset';
+@import './utils/variables';
+@import './base/fonts';
+@import './utils/mixins';
+@import './utils/responsive';
+@import './utils/functions.scss';
+@import './shared/font-size';
+@import './base/base';
+@import '../components/style';
+@import '../common/style';

@@ -1,0 +1,19 @@
+*,
+*:after,
+*:before {
+  box-sizing: inherit;
+  user-select: none;
+}
+
+html {
+  scroll-behavior: 'smooth';
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+body {
+  background: #fbfbfb;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  font-family: $font-work-sans;
+}
