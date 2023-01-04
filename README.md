@@ -21,9 +21,8 @@ Other technologies I used:
 
 ## My Results
 
-* [Login page](https://lateef-bakare-lendsqr-fe-test.netlify.app/login)
-* [Dashboard](https://lateef-bakare-lendsqr-fe-test.netlify.app/dashboard) 
-* [Users](https://lateef-bakare-lendsqr-fe-test.netlify.app/dashboard/users) 
+* [Live Site](https://lateef-bakare-lendsqr-fe-test.netlify.app/)
+
 
 ## Other guides from React
 
