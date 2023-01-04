@@ -1,7 +1,27 @@
+# Lendsqr Front-End Engineering Test
+
+Lendsqr Front-end engineering assessment documentation.
+
+The assessment's goal is to create the four screens in [this Figma design](https://www.figma.com/file/ZKILoCoIoy1IESdBpq3GNC/Frontend-Testing?node-id=6819%3A58317) and integrate with the following mock api endpoints
+
+* https://6270020422c706a0ae70b72c.mockapi.io/lendsqr/api/v1/users
+
+* https://6270020422c706a0ae70b72c.mockapi.io/lendsqr/api/v1/users/:id
+
+
+## Technologies
+These technologies were used as per strict requirements of the test:
+* Typescript
+* React
+* SCSS
+
+Other technologies I used: 
+* React Router for client-side navigation
+* Axios and React Query for asynchronous data fetching.
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
