@@ -15,7 +15,7 @@ const PasswordButton = ({ type, onClick }: IProps) => {
       )}
       {type === 'text' && (
         <button type="button" onClick={onClick}>
-          Hide
+          HIDE
         </button>
       )}
     </div>
